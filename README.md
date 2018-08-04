@@ -1,2 +1,0 @@
-# collaboration
-Protos Research Collaboration
